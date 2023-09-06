@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":";;;AAAA;IACI,UAAU;AACd","sources":["webpack://demo/./src/styles/global.css"],"sourcesContent":[".active{\r\n    color: red;\r\n}\r\n"],"names":[],"sourceRoot":""}

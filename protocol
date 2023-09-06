@@ -1,0 +1,14 @@
+webpack webpack-cli webpack-dev-server
+webpack dev server ашиглах явцад webpack нь script - ийг өөрийнхөө cache дотор хадгалж ажиллуулдаг
+
+HtmlWebpackPlugin - build хийх бүрт шинээр заагдсан html file - уудыг generate хийж гаргаж авна
+
+Clean-webpack-plugin - build хийх бүрт хуучин үүссэн build file -уудыг устгаж цэвэрлэнэ
+
+
+source-map   typescript кодыг browser дээр debug хийх боломжтой болгодог /  өөрөөр хэлбэл minimize хийгдсэн кодыг dev кодтой нь холбодог  /
+
+
+dependency injection - тухайн класс дээр ажиллах явцад хэрэгтэй обьектуудыг нь оруулж ирнэ
+
+build-prod - командийг өгсний дараа html файл дээрээ  <script type="module" src="./dist/5ef4ca7318197f19e843.bundle.js"></script> тухайн build - ийн утгыг тавьж өгнө
